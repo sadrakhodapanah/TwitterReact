@@ -1,0 +1,32 @@
+body {
+    margin: auto;
+    direction: rtl;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+/*
+.DivInsteadOfTextarea:empty:before {
+    content: attr(OurPlaceholder);
+    color: darkgrey;
+}
+*/
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #1e90F0;
+}
+a:link {
+    color: dodgerblue;
+}
+
+.myCustomStyles {
+    direction: rtl;
+    text-align: center;
+    font-family: Shabnam;}
+
+::-webkit-scrollbar {
+    display: none;
+
+}

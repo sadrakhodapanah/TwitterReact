@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@font-face {
+  font-family: Shabnam;
+  src: local('Shabnam'), url("./fonts/Shabnam-FD.woff") format('truetype');
+}
+@font-face {
+  font-family: ShabnamB;
+  src: local('ShabnamB'), url("./fonts/Shabnam-Bold-FD.woff") format('truetype');
+}
+@font-face {
+  font-family: Brush738;
+  src: local('Brush738'), url("./fonts/brus738n.ttf") format('truetype');
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
